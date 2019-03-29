@@ -1,7 +1,7 @@
-Ball Drop Game
+#Ball Drop Game
 
 
-PowerUps:
+###PowerUps:
 <hr>
 
 There are 4 powerups:
